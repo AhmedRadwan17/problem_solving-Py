@@ -7,3 +7,9 @@ def trim_if_upper(string):
 
 MyResults = map(trim_if_upper, friends_map)
 print(list(MyResults))
+print("-----------------------------------------------------------------------------------")
+friends_map = ["AEmanS", "AAhmedS", "DSamehF", "LOsamaL"]
+
+MyResults = map(lambda s: s[1:-1] if s[0].isupper() or s[-1].isupper() else s, friends_map)
+
+print(list(MyResults))
