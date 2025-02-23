@@ -1,3 +1,3 @@
-import mainCode
-mainCode.Say_Hello("Ahmed")
-mainCode.Say_Welcome("Ahmed")
+import Library
+Library.Say_Hello("Ahmed")
+Library.Say_Welcome("Ahmed")
