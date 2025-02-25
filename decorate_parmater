@@ -1,0 +1,11 @@
+def MyFec(func):
+  def InsideFunc(a,b):
+    print("Hello")
+    func(a,b)
+    print("Welcome")
+  return  InsideFunc
+
+@MyFec
+def Calc(a,b):
+  print(a+b)
+Calc(5,8)
