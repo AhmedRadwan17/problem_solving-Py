@@ -35,4 +35,9 @@ To specify The end of Mark of email
 1- CPP
 1) HTML
 1>PHP
+
+\d{3}\s\d{4}\s(\d{3}|\(\d{3}\))
+012 3773 838
+012 8383 (778)
+
 """
