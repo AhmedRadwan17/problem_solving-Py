@@ -10,4 +10,6 @@
 [^A-Z] Not All char from A To Z
 \d{3}\s\d{4}-?\s?\d{3} (Number)
 ? remain that if exist ok not exist ok 
+To Make mark start from start of line using (^)
+To Make mark end without anything using ($)
 """
