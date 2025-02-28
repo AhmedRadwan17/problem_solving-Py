@@ -30,4 +30,9 @@ Os33ma.Elzero@gamil.net
 
 To specify The end of Mark of email
 \.(com|net)
+
+(\d-|\d\)|\d>)\s?[A-z]+
+1- CPP
+1) HTML
+1>PHP
 """
