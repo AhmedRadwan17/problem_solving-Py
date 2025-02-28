@@ -40,4 +40,12 @@ To specify The end of Mark of email
 012 3773 838
 012 8383 (778)
 
+^(https?://)(www)?([A-z])+\.+(\w)+(\.(net))?$
+http://www.elzero.net
+http://elzero.org
+https://elzerocourses.com
+https://elzerocourses.size
+Hello Osama Elzero
+
+
 """
