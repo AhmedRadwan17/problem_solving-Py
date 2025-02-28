@@ -12,4 +12,7 @@
 ? remain that if exist ok not exist ok 
 To Make mark start from start of line using (^)
 To Make mark end without anything using ($)
+(Os33ma_Elzero@gamil.com
+Os33ma.Elzero@gamil.com)
+[A-z0-9\.]+@+[A-z0-9]+\.+[A-z]+
 """
