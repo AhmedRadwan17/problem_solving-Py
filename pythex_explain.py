@@ -47,5 +47,6 @@ https://elzerocourses.com
 https://elzerocourses.size
 Hello Osama Elzero
 
-
+Link Of pythex python 
+https://pythex.org/
 """
