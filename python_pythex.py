@@ -27,4 +27,7 @@ Os33ma.Elzero@gamil.com)
 Os33ma.Elzero@gamil.com
 Os33ma.Elzero@gamil.net
 ^[A-z0-9\.]+@+[A-z0-9]+\.+[A-z]+$
+
+To specify The end of Mark of email
+\.(com|net)
 """
