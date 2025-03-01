@@ -31,7 +31,7 @@ Os33ma.Elzero@gamil.net
 To specify The end of Mark of email
 \.(com|net)
 
-"""
+
 \d (Degit)
 \w (char + Numbers)
 
