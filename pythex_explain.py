@@ -116,5 +116,11 @@ http://elzero.net
 (0100) 600-1
 (0100) 600-12
 
-
+(https?)://(www)?\w+\.\w+(\.)?(\w+)?.+(php|py)
+http://www.elzero.org:8888/link.php
+https://elzero.org:8888/link.php
+http://www.elzero.com/link.py
+https://elzero.com/link.py
+http://www.elzero.net
+https://elzero.net
 """
