@@ -6,7 +6,7 @@ list1 = []
 while readmore.lower() == 'y':
     
     My_String = input("Enter your URL: ")
-    Check = re.findall(r'^(https?://)?(www\.)?[\w-]+\.\w+(\.net)?$', My_String)
+    Check = re.findall(r'(https?://)(www\.)?(\w+(\.\w+)+)', My_String)
 
     if Check:
         print("Valid URL!,",end=" ")
