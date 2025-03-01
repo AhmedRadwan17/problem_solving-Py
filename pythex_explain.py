@@ -123,4 +123,10 @@ http://www.elzero.com/link.py
 https://elzero.com/link.py
 http://www.elzero.net
 https://elzero.net
+
+(https?)?(abcd)?(abc)?
+http
+https
+abc
+abcd
 """
